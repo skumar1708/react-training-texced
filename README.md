@@ -4,7 +4,7 @@ Link to Module 1 PPT(https://docs.google.com/presentation/d/1PVUsXop9M2sKZWozczS
 
 ## Available Scripts
 
-In the project directory run below command to see the application running:
+In the each project directory run below command to see the application running:
 
 ### `npm start`
 
